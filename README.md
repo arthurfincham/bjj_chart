@@ -1,1 +1,1 @@
-Brief experiement with Chart.js
+Brief experiment with Chart.js
